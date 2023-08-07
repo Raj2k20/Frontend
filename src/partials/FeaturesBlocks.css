@@ -1,0 +1,6 @@
+/* styles.css */
+
+.whiteInput .MuiAutocomplete-inputRoot[class*="MuiInput-root"] {
+    background-color: white !important ;/* Set the background color to white */
+  }
+  
